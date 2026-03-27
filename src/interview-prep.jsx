@@ -302,7 +302,7 @@ export default function App() {
             <div style={{ display: "flex", alignItems: "center", gap: "10px", flex: 1 }}>
               <div style={{ width: "34px", height: "34px", borderRadius: "9px", background: "var(--accent)", display: "flex", alignItems: "center", justifyContent: "center", fontSize: "16px" }}>🎯</div>
               <div>
-                <div style={{ fontFamily: "var(--font-display)", fontSize: "17px", fontWeight: "800", letterSpacing: "-0.3px", lineHeight: 1 }}>PrepCraft</div>
+                <div style={{ fontFamily: "var(--font-display)", fontSize: "17px", fontWeight: "800", letterSpacing: "-0.3px", lineHeight: 1 }}>U Karthik's</div>
                 <div style={{ fontSize: "10px", color: "var(--text-muted)", letterSpacing: "0.5px", textTransform: "uppercase" }}>Interview Prep for Freshers</div>
               </div>
             </div>
